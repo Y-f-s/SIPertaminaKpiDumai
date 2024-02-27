@@ -1,0 +1,1 @@
+var json_TowerTelekomunikasixl_13 = {"type":"FeatureCollection","name":"TowerTelekomunikasixl_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Tower":"Tower Bersama XL Axiata"},"geometry":{"type":"Point","coordinates":[101.463846073247495,1.670653561149107]}}]}
